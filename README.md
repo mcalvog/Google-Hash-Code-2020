@@ -1,6 +1,6 @@
 # Google Hash Code 2020
 ## More-Pizza 🍕
-Written in Javascript (NodeJs)
+Written in Java. Based on https://github.com/Xuntron/Google-Hash-Code-2020.
 
 <img src="cover.jpg">
 
